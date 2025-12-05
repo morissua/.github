@@ -52,6 +52,8 @@ We use modern, proven technologies to ensure quality and scalability:
 - Laravel (PHP 8+)  
 - Node.js  
 - MySQL / PostgreSQL  
+- .Net
+- Java
 
 ### **Infrastructure & Tools**
 - Vite, Webpack  
