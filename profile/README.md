@@ -4,8 +4,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://morissua.com/images/logo-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://morissua.com/images/logo-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://morissua.com/images/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://morissua.com/images/logo-light.svg">
   <img src="https://morissua.com/images/logo-dark.svg" alt="Morissua Logo" width="180">
 </picture>
 
