@@ -2,8 +2,12 @@
 
 <br />
 
-<!-- Replace with your actual logo -->
-<img src="https://morissua.com/images/logo-light.svg" alt="Morissua Logo" width="180" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://morissua.com/images/logo-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://morissua.com/images/logo-dark.svg">
+  <img src="https://morissua.com/images/logo-dark.svg" alt="Morissua Logo" width="180">
+</picture>
 
 <br />
 <br />
