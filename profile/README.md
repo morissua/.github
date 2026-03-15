@@ -18,6 +18,7 @@
 
 [![Website](https://img.shields.io/badge/Website-morissua.com-0A0A0A?style=flat-square&logo=globe&logoColor=white)](https://www.morissua.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Morissua-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/morissua)
+[![Instagram](https://img.shields.io/badge/Instagram-@morissua-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/morissua)
 [![Twitter](https://img.shields.io/badge/Twitter-@morissua-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/morissua)
 
 </div>
@@ -102,11 +103,6 @@ Unless stated otherwise:
 ---
 
 <div align="center">
-
-<br />
-
-Made with care by the **Morissua** team · [morissua.com](https://www.morissua.com)
-
 <br />
 
 </div>
